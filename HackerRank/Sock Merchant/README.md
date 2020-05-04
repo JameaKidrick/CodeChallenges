@@ -10,8 +10,8 @@ Complete the sockMerchant function in the editor below. It must return an intege
 
 sockMerchant has the following parameter(s):
 
-n: the number of socks in the pile
-ar: the colors of each sock
+* n: the number of socks in the pile
+* ar: the colors of each sock
 
 ___
 
